@@ -8,4 +8,4 @@ support for various mods using Mine Little Pony.
 
 This pack is intended to work as a normal resource pack.
 
-To get the latest version click the green "Code" button and select "Download ZIP".
+[Click Here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FMineLittlePony%2FExtra-Pony-Armor-Pack%2Ftree%2Fmaster%2Fpack) to download the latest version of the pack.
