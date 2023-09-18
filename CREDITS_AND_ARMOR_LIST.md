@@ -52,3 +52,11 @@
  - Lithium Battery Pack (Sollace)
     [Inner](assets/techreborn/textures/models/armor/lithium_batpack_layer_inner_pony.png)
     [Outer](assets/techreborn/textures/models/armor/lithium_batpack_layer_outer_pony.png)
+
+ - Nano Armor (Sollace)
+    [Inner](assets/techreborn/textures/models/armor/nano_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/nano_layer_outer_pony.png)
+
+ - Quantum Armor (Sollace)
+    [Inner](assets/techreborn/textures/models/armor/quantum_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/quantum_layer_outer_pony.png)
