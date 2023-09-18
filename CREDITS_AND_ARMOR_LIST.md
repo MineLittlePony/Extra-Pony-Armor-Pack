@@ -69,6 +69,30 @@
     [Inner](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_inner_pony.png)
     [Outer](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_outer_pony.png)
 
+ - Bronze Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/bronze_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/bronze_layer_outer_pony.png)
+
+ - Peridot Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/peridot_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/peridot_layer_outer_pony.png)
+
+ - Ruby Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/ruby_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/ruby_layer_outer_pony.png)
+
+ - Sapphire Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/sapphire_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/sapphire_layer_outer_pony.png)
+
+ - Silver Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/silver_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/silver_layer_outer_pony.png)
+
+ - Steel Armor (CopperCore)
+    [Inner](assets/techreborn/textures/models/armor/steel_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/steel_layer_outer_pony.png)
+
 # [Modern Industrialization](https://github.com/AztechMC/Modern-Industrialization/tree/master/src/main/resources/assets/modern_industrialization/textures/models/armor)
 
  - Diesel Jetpack (Sollace)
