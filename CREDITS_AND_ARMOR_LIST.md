@@ -12,6 +12,24 @@
     [Inner](assets/minelittlepony/textures/models/armor/flaming_ruby_layer_inner_pony.png)
     [Outer](assets/minelittlepony/textures/models/armor/flaming_ruby_layer_outer_pony.png)
 
+# [Better End](https://github.com/quiqueck/BetterEnd/tree/1.20/src/main/resources/assets/minecraft/textures/models/armor)
+
+ - Aeternium Armor (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/aeternium_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/aeternium_layer_outer_pony.png)
+
+ - Crystalite Armor (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/crystalite_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/crystalite_layer_outer_pony.png)
+
+ - Terminite Armor (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/terminite_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/terminite_layer_outer_pony.png)
+
+ - Thallasium Armor (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/thallasium_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/thallasium_layer_outer_pony.png)
+
 # [Advanced Reborn](https://github.com/Pitan76/AdvancedReborn/tree/1.19/src/main/resources/assets/minecraft/textures/models/armor)
 
  - Nano Armor (Sollace)
