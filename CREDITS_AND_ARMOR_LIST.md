@@ -86,3 +86,12 @@
  - Rubber Armor (Sollace)
     [Inner](assets/modern_industrialization/textures/models/armor/rubber_layer_inner_pony.png)
     [Outer](assets/modern_industrialization/textures/models/armor/rubber_layer_outer_pony.png)
+
+# [Ad Astra](https://github.com/terrarium-earth/Ad-Astra/tree/1.20.x/common/src/main/resources/assets/ad_astra/textures/entity/armour)
+
+ - Space Suit (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/space_suit_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/space_suit_layer_outer_pony.png)
+    [Inner Overlay](assets/minelittlepony/textures/models/armor/space_suit_layer_inner_overlay_pony.png)
+    [Outer Overlay](assets/minelittlepony/textures/models/armor/space_suit_layer_outer_overlay_pony.png)
+    [Models](assets/ad_astra/models/entity/models/armor/)

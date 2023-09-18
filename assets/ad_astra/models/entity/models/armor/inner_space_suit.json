@@ -1,0 +1,15 @@
+{
+	"parent": "minelittlepony:armor/inner_pony_armor",
+	"dilate": 0.7,
+	"data": {
+		"body": {
+			"texture": {"u": 16, "v": 8},
+			"cubes": [
+				{"from": [-4, 4, -2], "size": [8, 8, 16]},
+				{"from": [-4, -3, -2], "size": [8, 8, 16], "dilate": [-1.2, -2.2, -1.2]}
+			]
+		}
+	}
+}
+
+
