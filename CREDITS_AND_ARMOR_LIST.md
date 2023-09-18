@@ -60,3 +60,11 @@
  - Quantum Armor (Sollace)
     [Inner](assets/techreborn/textures/models/armor/quantum_layer_inner_pony.png)
     [Outer](assets/techreborn/textures/models/armor/quantum_layer_outer_pony.png)
+
+ - Cloaking Device (Sollace)
+    [Inner](assets/techreborn/textures/models/armor/cloaking_device_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/cloaking_device_layer_outer_pony.png)
+
+ - Lapotronic Orbpack (Sollace)
+    [Inner](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_outer_pony.png)
