@@ -119,3 +119,10 @@
     [Inner Overlay](assets/minelittlepony/textures/models/armor/space_suit_layer_inner_overlay_pony.png)
     [Outer Overlay](assets/minelittlepony/textures/models/armor/space_suit_layer_outer_overlay_pony.png)
     [Models](assets/ad_astra/models/entity/models/armor/)
+
+- Netherite Space Suit (Sollace)
+    [Inner](assets/minelittlepony/textures/models/armor/netherite_space_suit_layer_inner_pony.png)
+    [Outer](assets/minelittlepony/textures/models/armor/netherite_space_suit_layer_outer_pony.png)
+    [Inner Overlay](assets/minelittlepony/textures/models/armor/netherite_space_suit_layer_inner_overlay_pony.png)
+    [Outer Overlay](assets/minelittlepony/textures/models/armor/netherite_space_suit_layer_outer_overlay_pony.png)
+    [Models](assets/ad_astra/models/entity/models/armor/)
