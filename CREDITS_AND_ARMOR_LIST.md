@@ -28,3 +28,9 @@
     [Outer 16](assets/minelittlepony/textures/models/armor/batpack16_layer_outer_pony.png)
     [Outer 64](assets/minelittlepony/textures/models/armor/batpack64_layer_outer_pony.png)
     [Outer 128](assets/minelittlepony/textures/models/armor/batpack64_layer_outer_pony.png)
+
+# [Tech Reborn](https://github.com/TechReborn/TechReborn/blob/1.19/src/main/resources/assets/techreborn/textures/models/armor)
+
+ - Lithium Battery Pack (Sollace)
+    [Inner](assets/techreborn/textures/models/armor/lithium_batpack_layer_inner_pony.png)
+    [Outer](assets/techreborn/textures/models/armor/lithium_batpack_layer_outer_pony.png)
