@@ -68,3 +68,21 @@
  - Lapotronic Orbpack (Sollace)
     [Inner](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_inner_pony.png)
     [Outer](assets/techreborn/textures/models/armor/lapotronic_orbpack_layer_outer_pony.png)
+
+# [Modern Industrialization](https://github.com/AztechMC/Modern-Industrialization/tree/master/src/main/resources/assets/modern_industrialization/textures/models/armor)
+
+ - Diesel Jetpack (Sollace)
+    [Inner](assets/modern_industrialization/textures/models/armor/diesel_jetpack_layer_inner_pony.png)
+    [Outer](assets/modern_industrialization/textures/models/armor/diesel_jetpack_layer_outer_pony.png)
+
+ - Gravichestplate Chestplate (Sollace)
+    [Inner](assets/modern_industrialization/textures/models/armor/gravichestplate_layer_inner_pony.png)
+    [Outer](assets/modern_industrialization/textures/models/armor/gravichestplate_layer_outer_pony.png)
+
+ - Quantum Armor (Sollace)
+    [Inner](assets/modern_industrialization/textures/models/armor/quantum_layer_inner_pony.png)
+    [Outer](assets/modern_industrialization/textures/models/armor/quantum_layer_outer_pony.png)
+
+ - Rubber Armor (Sollace)
+    [Inner](assets/modern_industrialization/textures/models/armor/rubber_layer_inner_pony.png)
+    [Outer](assets/modern_industrialization/textures/models/armor/rubber_layer_outer_pony.png)
